@@ -1,0 +1,194 @@
+[
+    {
+        "id": "1",
+        "name": "NodeJS - The Complete Guide",
+        "image": "https://i.ibb.co/wSLXXQt/nodejs-1-logo-png-transparent.png",
+        "shortDes": "Master Node JS & Deno.js, build REST APIs with Node.js, GraphQL APIs, add Authentication, use MongoDB, SQL & much more!",
+        "des":"Join the most comprehensive Node.js course on Techmaster and learn Node in both a practical as well as theory-based way! This course was updated to also include sections on Deno.js - in addition to more than 30 hours of content on Node.js!Node.js is probably THE most popular and modern server-side programming language you can dive into these days!Node.js developers are in high demand and the language is used for everything from traditional web apps with server-side rendered views over REST APIs all the way up to GraphQL APIs and real-time web services. Not to mention its applications in build workflows for projects of all sizes.This course will teach you all of that! From scratch with zero prior knowledge assumed. Though if you do bring some knowledge, youll of course be able to quickly jump into the course modules that are most interesting to you.",
+        "feature": {
+            "featuredImage":"https://i.ibb.co/9ZGmPBd/wp6606918.webp",
+            "title": "What you'll learn",
+            "options": [
+                {
+                    "id":1,
+                    "point":"Work with one of the most in-demand web development programming languages"
+                },
+                {
+                    "id":2,
+                    "point":"Learn the basics as well as advanced concepts of NodeJS in great detail"
+                },
+                {
+                    "id":3,
+                    "point":"Build modern, fast and scalable server-side web applications with NodeJS, databases like SQL or MongoDB and more"
+                },
+                
+                {
+                    "id":4,
+                    "point":"Get a thorough introduction to DenoJS"
+                }
+            ]
+        },
+        "lectures":"542",
+        "duration":" 40h 31m"
+    },
+    {
+        "id": "2",
+        "name": "MongoDB - The Complete Developer's Guide 2022",
+        "image": "https://i.ibb.co/J7Nx0yq/image-removebg-preview.png",
+        "shortDes": "Master MongoDB Development for Web & Mobile Apps. CRUD Operations, Indexes, Aggregation Framework - All about MongoDB!",
+        "des":"Join this bestselling MongoDB course to learn all about this extremely popular database and query language from the ground up, in great detail and with many practical examples!MongoDB is one of the most important NoSQL databases you can work with these days. It's extremely popular and MongoDB developers are in high demand.No matter if you're building web applications, mobile applications or any other kind of application or if you're a data scientist - you'll need to work with data. Storing data, querying it efficiently and minimizing complexities whilst optimizing performance are crucial tasks.MongoDB makes working with data simple - it's built on a philosophy that prioritizes performance and efficiency.In this course, you'll learn all about MongoDB from scratch. No prior MongoDB or database experience is required!",
+        "feature": {
+            "featuredImage":"https://i.ibb.co/48xCnsh/image.png",
+            "title": "What you'll learn",
+            "options": [
+                {
+                    "id":1,
+                    "point":"Learn what document databases are and how data is organized with MongoDB"
+                },
+                {
+                    "id":2,
+                    "point":"Learn how to perform CRUD operations with MongoDB"
+                },
+                {
+                    "id":3,
+                    "point":"Write efficient and well-performing queries to fetch data in the format you need it"
+                },
+                
+                {
+                    "id":4,
+                    "point":"Use all features MongoDB offers you to work with data efficiently"
+                }
+            ]
+        },
+        "lectures":"266",
+        "duration":"17h 36m"
+    },
+    {
+        "id": "3",
+        "name": "Understanding TypeScript - 2022 Edition",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png",
+        "shortDes": "Boost your JavaScript projects with TypeScript: Learn all about core types, generics, TypeScript + React or Node & more!",
+        "des":"Join this bestselling, completely updated course to learn TypeScript from the ground up, in great depth!Learn what TypeScript is, why it really is a powerful addition to JavaScript, what its features are and how to use it! Learn why TypeScript is amazing, how it improves your JavaScript code and how it helps you avoid nasty bugs and errors!This course takes you from the very basics and its most important feature (types!) to the point where you're able to use TypeScript in any of your projects. ReactJS projects included!As TypeScript is developed by Microsoft and strongly advertised and used by Angular 2+ (Google) and other popular libraries, it's here to stay. Indeed, TypeScript is one of the most popular web development languages you can learn these days!Gain an edge today and be amongst the first to really understand TypeScript!Learn how you can use TypeScript to bring modern JS features like destructuring, arrow functions or classes to any environment and codebase - even if it does not support those features yet!  Understand which types you may use and how you can build your own types. Learn how to write better code with types and with the many features offered by TypeScript!But, in this course, we'll not stop after the basics! You will also learn about more advanced features (like decorators) and also how to set up workflows with  TypeScript. This includes a TypeScript-only workflow as well as a webpack workflow.You'll also learn that you're not limited to Angular or plain JavaScript/ TypeScript projects. Instead, a complete module covers how you may use TypeScript with ReactJS and improve your React code with TypeScript as well.",
+        "feature": {
+            "featuredImage":"https://i.ibb.co/2FKQVRf/image.png",
+            "title": "What you'll learn",
+            "options": [
+                {
+                    "id":1,
+                    "point":"Use TypeScript and its Features like Types, ES6 Support, Classes, Modules, Interfaces and much more in any of their Projects"
+                },
+                {
+                    "id":2,
+                    "point":"Understand what TypeScript really is about and how it works"
+                },
+                {
+                    "id":3,
+                    "point":"Why TypeScript offers a real advantage over vanilla JavaScript"
+                },
+                
+                {
+                    "id":4,
+                    "point":"Learn TypeScript both in theory as well as applied to real use-cases and projects"
+                }
+            ]
+        },
+        "lectures":"198",
+        "duration":"14h 58m"
+    },
+    {
+        "id": "4",
+        "name": "Next.js & React - The Complete Guide ",
+        "image": "https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png",
+        "shortDes": "Learn NextJS from the ground up and build production-ready, fullstack ReactJS apps with the NextJS framework!",
+        "des":"Join this bestselling NextJS course and learn how to build highly dynamic, super fast and SEO-ready React apps with React & NextJS!This course comes with two paths which you can take: The complete path (full >20h course) and the summary path (~3h summary module) - you can choose the path that best fits your time requirements!I created the bestselling Udemy course on React, now I'm super excited to share this course on NextJS with you - an in-depth course about an amazing React framework that allows you to take the next step as a React developer and build real, production-ready projects with React and Next.js!Next.js is the production-ready, fullstack-capable framework for ReactJS - the most popular JavaScript library you can learn these days!Too many buzzwords for your taste?Fair enough - but indeed, NextJS is a great choice for growing as a React developer and for taking your React apps to the next level!Because NextJS is growing fast and therefore in high demand. And there are good reasons for that: NextJS allows you to build React apps with built-in server-side rendering and page pre-rendering. Building great user experiences and search engine friendly (SEO!) React apps has never been easier!In addition, NextJS makes building fullstack React apps (frontend + backend code combined in one project) extremely easy as well! Blend client-side and server-side code and build a NodeJS-based API side-by-side with your frontend React apps. It's a breeze with NextJS!Want to add authentication? NextJS simplifies that as well and makes user signup, sign in and session management very convenient.This course will take you from NextJS beginner to advanced level in no time!We'll start at the very basics, no NextJS knowledge is required at all, and we'll then dive into all the core features that make up NextJS. Both in theory as well as with multiple real projects where all concepts will be applied step-by-step.For this course, you'll need basic React knowledge, though the course does come with a React refresher module in case it's been some time since you last worked with React.This course also includes a NextJS Summary module which allows you to always come back to the course in the future and refresh your knowledge without going through the full course again. Or you just take that summary module (and skip the rest for now) to learn about all the core features in as little time as possible.After finishing this course, you'll be well prepared to build your own NextJS projects from the ground up and apply for NextJS positions!",
+        "feature": {
+            "featuredImage":"https://i.ibb.co/ZSS4J2D/image.png",
+            "title": "What you'll learn",
+            "options": [
+                {
+                    "id":1,
+                    "point":"Learn all key NextJS features like pre-rendering, SSR, data fetching, file-based routing and authentication"
+                },
+                {
+                    "id":2,
+                    "point":"Learn how to build client-side and fullstack ReactJS apps with NextJS"
+                },
+                {
+                    "id":3,
+                    "point":"Build real projects and apply what you learned with hands-on projects and examples"
+                },
+                
+                {
+                    "id":4,
+                    "point":"Take the full course or the NextJS Summary module for a quickstart if you have limited time"
+                }
+            ]
+        },
+        "lectures":"275",
+        "duration":"25h 2m"
+    },
+    {
+        "id": "5",
+        "name": "React - The Complete Guide ",
+        "image": "https://i.ibb.co/th1c2Cq/image-removebg-preview-1.png",
+        "shortDes": "Dive in and learn React.js from scratch! Learn Reactjs, Hooks, Redux, React Routing, Animations, Next.js and way more!",
+        "des":"This course is fully up-to-date with React 18 (the latest version of React)!It was completely updated and re-recorded from the ground up - it teaches the very latest version of React with all the core, modern features you need to know!---This course also comes with two paths which you can take: The complete path (full >40h course) and the summary path (~4h summary module) - you can choose the path that best fits your time requirements! :-)---React.js is THE most popular JavaScript library you can use and learn these days to build modern, reactive user interfaces for the web.This course teaches you React in-depth, from the ground up, step by step by diving into all the core basics, exploring tons of examples and also introducing you to advanced concepts as well.You'll get all the theory, tons of examples and demos, assignments and exercises and tons of important knowledge that is skipped by most other resources - after all, there is a reason why this course is that huge! :)And in case you don't even know why you would want to learn React and you're just here because of some ad or the algorithm - no worries: ReactJS is a key technology as a web developer and in this course I will also explain WHY it's that important!",
+        "feature": {
+            "featuredImage":"https://i.ibb.co/q70BrDd/image.png",
+            "title": "What you'll learn",
+            "options": [
+                {
+                    "id":1,
+                    "point":"Build powerful, fast, user-friendly and reactive web apps"
+                },
+                {
+                    "id":2,
+                    "point":"Provide amazing user experiences by leveraging the power of JavaScript with ease"
+                },
+                {
+                    "id":3,
+                    "point":"Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors you can find in web dev right now"
+                },
+                
+                {
+                    "id":4,
+                    "point":"Learn all about React Hooks and React Components"
+                }
+            ]
+        },
+        "lectures":"495",
+        "duration":"49h 24m"
+    },
+    {
+        "id": "6",
+        "name": "Angular - The Complete Guide",
+        "image": "https://i.ibb.co/xsZp6PR/5847ea22cef1014c0b5e4833.png",
+        "shortDes": "Master Angular 13 (formerly Angular 2) and build awesome, reactive web apps with the successor of Angular.js",
+        "des":"Join the most comprehensive and bestselling Angular course on Udemy and learn all about this amazing framework from the ground up, in great depth!This course starts from scratch, you neither need to know Angular 1 nor Angular 2!Angular 13 simply is the latest version of Angular 2, you will learn this amazing framework from the ground up in this course!Join the most comprehensive, popular and bestselling Angular course on Udemy and benefit not just from a proven course concept but from a huge community as well! From Setup to Deployment, this course covers it all! You'll learn all about Components, Directives, Services, Forms, Http Access, Authentication, Optimizing an Angular App with Modules and Offline Compilation and much more - and in the end: You'll learn how to deploy an application!But that's not all! This course will also show you how to use the Angular CLI and feature a complete project, which allows you to practice the things learned throughout the course!And if you do get stuck, you benefit from an extremely fast and friendly support - both via direct messaging or discussion. You have my word! ;-)",
+        "feature": {
+            "featuredImage":"https://i.ibb.co/2dqgJGW/image.png",
+            "title": "What you'll learn",
+            "options": [
+                {
+                    "id":1,
+                    "point":"Develop modern, complex, responsive and scalable web applications with Angular 14"
+                },
+                {
+                    "id":2,
+                    "point":"Fully understand the architecture behind an Angular application and how to use it"
+                },
+                {
+                    "id":3,
+                    "point":"Use the gained, deep understanding of the Angular fundamentals to quickly establish yourself as a frontend developer"
+                },
+                
+                {
+                    "id":4,
+                    "point":"Create single-page applications with one of the most modern JavaScript frameworks out there"
+                }
+            ]
+        },
+        "lectures":"472",
+        "duration":"34h 42m"
+    }
+]
